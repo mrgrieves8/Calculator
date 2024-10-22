@@ -1,9 +1,4 @@
-/*
-	Code By: Amit Ellenbogen
-	Review By: Shahar Marom
-	Date: 26.6.24
-	Project: Calculator
-*/
+
 #include <stdlib.h> /* strtod() */
 #include <ctype.h> /* isspace() */
 #include <math.h> /* pow() */
